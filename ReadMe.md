@@ -14,3 +14,4 @@ python domain_live_check.py 文件名
 # 格式：domain TRUE/FALSE
 ```
 
+###MIT协议
